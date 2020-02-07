@@ -1,0 +1,3 @@
+[submodule "onrails-db"]
+	path = onrails-db
+	url = git@github.com:SomHackathon2020/onrails-db.git
