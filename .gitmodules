@@ -1,3 +1,9 @@
 [submodule "onrails-db"]
 	path = onrails-db
 	url = git@github.com:SomHackathon2020/onrails-db.git
+[submodule "onrails-fe"]
+	path = onrails-fe
+	url = git@github.com:SomHackathon2020/onrails-fe.git
+[submodule "onrails-be"]
+	path = onrails-be
+	url = git@github.com:SomHackathon2020/onrails-be.git
